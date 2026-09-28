@@ -1,0 +1,2 @@
+# premium-amp-build-001-tube-amplifier-building-bias
+Stop losing your bias settings and build notes in a tangle of papers and bookmarks. The Tube Amplifier Building &amp; Bias Set Craft Hub is your central command for every build — from first solder to final bias check.  This Notion template solves the chaos of tracking bias across different tube types, multiple projects, and scattered component sources.
